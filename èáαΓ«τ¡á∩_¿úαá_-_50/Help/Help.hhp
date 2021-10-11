@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Help.chm
+Contents file=Table of Contents.hhc
+Default Window=Main
+Default topic=html\index.htm
+Display compile progress=No
+Language=0x419 Русский
+
+[WINDOWS]
+Main="Карточная игра - 50","Table of Contents.hhc",,"html\index.htm","http://www.dp7lib.narod.ru",,,,,0x3120,,0x304e,[206,79,1082,922],,,,,,,0
+
+[FILES]
+html\index.htm
+html\index2.htm
+
+[INFOTYPES]
